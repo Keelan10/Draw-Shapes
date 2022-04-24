@@ -1,4 +1,4 @@
-# Scalable-Coordinate-System
+# Scalable Coordinate System
 ## Overview
 This is an interactive Graphical User Interface for drawing shapes.
 <div style="width:100%">
